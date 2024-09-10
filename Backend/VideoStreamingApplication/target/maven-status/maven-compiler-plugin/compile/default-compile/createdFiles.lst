@@ -1,0 +1,11 @@
+com\videostreaming\VideoStreamingApplication\Services\VideoService.class
+com\videostreaming\VideoStreamingApplication\Helper\Constants.class
+com\videostreaming\VideoStreamingApplication\Controllers\VideoController.class
+com\videostreaming\VideoStreamingApplication\Entities\Course.class
+com\videostreaming\VideoStreamingApplication\Entities\Video.class
+com\videostreaming\VideoStreamingApplication\Dao\VideoRepository.class
+com\videostreaming\VideoStreamingApplication\ServicesImpl\VideoServiceImpl.class
+com\videostreaming\VideoStreamingApplication\VideoStreamingApplication.class
+com\videostreaming\VideoStreamingApplication\Entities\Video$VideoBuilder.class
+com\videostreaming\VideoStreamingApplication\Helper\Message.class
+com\videostreaming\VideoStreamingApplication\Helper\Message$MessageBuilder.class
